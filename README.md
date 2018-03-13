@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Sentiment Analysis examples
+Sentiment Analysis examples using Python on Jupyter Notebook
